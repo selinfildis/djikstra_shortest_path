@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/citymapper-challenge.iml" filepath="$PROJECT_DIR$/.idea/citymapper-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fastapi-test/.idea/fastapi-test.iml" filepath="$PROJECT_DIR$/../fastapi-test/.idea/fastapi-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../irubis_waterpump/.idea/irubis_waterpump.iml" filepath="$PROJECT_DIR$/../irubis_waterpump/.idea/irubis_waterpump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studioghiblimovielist/.idea/studioghiblimovielist.iml" filepath="$PROJECT_DIR$/../studioghiblimovielist/.idea/studioghiblimovielist.iml" />
+    </modules>
+  </component>
+</project>
